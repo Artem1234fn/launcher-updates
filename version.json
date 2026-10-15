@@ -1,8 +1,8 @@
 {
 	"apk_url": "",
 	"min_app_version": 1,
-	"pck_url": "https://raw.githubusercontent.com/Artem1234fn/launcher-updates/main/content_v1.pck",
+	"pck_url": "https://raw.githubusercontent.com/Artem1234fn/launcher-updates/main/content_v2.pck",
 	"sha256": "4c2e8042391a8e4d2bc58e0679ad2e62b4fb8d9d7d6d800d5c13b833d4f01219",
 	"signature": "QGoPBKzCvmOpt4ymqAlYJ43/LkPp3AhrW+SkeDaEgolG7kGX/K1imUddo+FY+LYkbwyF9RTqdwQ0WXYOQVuIGJ2exTLXzQQhWacc53Sq9F82HuJUu+8nCZZ1l/+TVBC5J00vWCc5oSqWvVgQ5FzB0nwvR3CZtIPPmcwn6aiiDFkksa1JtVkpaP6K9ts4is6Nrqvxud47felQg2oho76aDdR9Nkqux0jADXrqXPxzkLfD0bmJ58F771oNL16tY/JY5rVdCx0+ogPSkObTLAt6rO9ADWkw30YvWXXYLe6eU4xrnhoVAq/u598ieoSZfCfl5eUszQ6+Elrskq0ruGeXPA==",
-	"version": 1
+	"version": 2
 }
